@@ -236,6 +236,10 @@ Escalations have been resolved successfully!
 Escalation status:
 - [0xhsp](https://github.com/sherlock-audit/2024-05-midas-judging/issues/109/#issuecomment-2155883984): rejected
 
+**sherlock-admin2**
+
+The Lead Senior Watson signed off on the fix.
+
 # Issue M-2: DEPOSIT_VAULT_ADMIN_ROLE/REDEMPTION_VAULT_ADMIN_ROLE have larger permission than expected: they shouldn't be able to pause vaults 
 
 Source: https://github.com/sherlock-audit/2024-05-midas-judging/issues/112 
